@@ -58,4 +58,19 @@ This project focuses on predicting Customer Lifetime Value (CLV) for an auto ins
 - `README.md`: Project documentation.
 
 ## How to Use
-1. Install the required Python libraries:
+1. Install the required Python libraries: pip install -r requirements.txt
+2. Open the Jupyter Notebook: jupyter notebook Customer_Lifetime_value_EDA_and_Model.ipynb
+3. Run the cells sequentially to reproduce the analysis, model training, and SHAP visualizations.
+
+## Requirements
+- Python 3.7 or later
+- Libraries: pandas, numpy, matplotlib, seaborn, sklearn, shap, xgboost, lightgbm, catboost
+
+## Future Work
+- Incorporate dynamic models that adapt to real-time customer behavior.
+- Explore additional features such as customer feedback and interaction data.
+- Expand the scope to include other insurance product categories.
+
+## Contact
+For queries, feel free to contact **Danial Monachan** at [email@example.com].
+
