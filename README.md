@@ -72,5 +72,5 @@ This project focuses on predicting Customer Lifetime Value (CLV) for an auto ins
 - Expand the scope to include other insurance product categories.
 
 ## Contact
-For queries, feel free to contact **Danial Monachan** at [email@example.com].
+For queries, feel free to contact **Danial Monachan** at [danialmonachan234@gmail.com].
 
